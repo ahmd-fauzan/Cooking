@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119b24a2cdf1e2c4a93e966ecca72933, type: 3}
+  m_Name: Level 1 - 1
+  m_EditorClassIdentifier: 
+  stage: 1
+  subLevel: 1
+  timer: 90
+  foodSale: 10
+  customerTarget: 0
+  unlock: 1
+  completed: 0
+  maxCustomer: 0
+  customerSpawnTime: 6
+  customers:
+  - {fileID: 11400000, guid: 327a0757f155de449a30d5b2d31e7e26, type: 2}
+  - {fileID: 11400000, guid: 4ca46cf092b844249bb42fa83ee1b93a, type: 2}
+  menus:
+  - {fileID: 11400000, guid: d5990a98a79207341a3ec0c77afa1144, type: 2}
+  - {fileID: 11400000, guid: 17d213d9bcf90b84eb3087ed36fadd4d, type: 2}
+  - {fileID: 11400000, guid: 2186c8277dbf7db4baeeeb76b40c3131, type: 2}
+  toppings:
+  - {fileID: 11400000, guid: 43fabd1c0c024bf4e8d7706fcd129262, type: 2}
+  - {fileID: 11400000, guid: 5531fcb81cd6de146af4da99087699ce, type: 2}
+  maxOrder: 2

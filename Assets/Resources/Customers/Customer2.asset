@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a297c9f116e8094a9a749b01066f572, type: 3}
+  m_Name: Customer2
+  m_EditorClassIdentifier: 
+  speed: 2.5
+  waitTime: 10
+  customerPrefab: {fileID: 2559696310138919819, guid: ef5db890b360a0544b38c60f1084c3fe, type: 3}

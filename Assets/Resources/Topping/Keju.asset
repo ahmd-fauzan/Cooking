@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4daf13bda4c704cafe4a8d45058294, type: 3}
+  m_Name: Keju
+  m_EditorClassIdentifier: 
+  toppingName: Keju
+  toppingPrefab: {fileID: 8749752557547756998, guid: e27ba967217212b4a8c8731066f931c9, type: 3}
+  toppingObjectPrefab: {fileID: 1444035256953457290, guid: 05db9d1cb133aa64e88cc5771b500589, type: 3}

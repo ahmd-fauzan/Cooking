@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4daf13bda4c704cafe4a8d45058294, type: 3}
+  m_Name: Coklat
+  m_EditorClassIdentifier: 
+  toppingName: Coklat
+  toppingPrefab: {fileID: 2144147236982965341, guid: 79a33fb0b2479f845bb34fcdfccd5a85, type: 3}
+  toppingObjectPrefab: {fileID: 3780559221121081977, guid: 5439622674790824fab45d3a93d6e639, type: 3}

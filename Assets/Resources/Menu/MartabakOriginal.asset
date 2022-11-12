@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef027ceb5356ba94997653db0b930b93, type: 3}
+  m_Name: MartabakOriginal
+  m_EditorClassIdentifier: 
+  menuName: MartabakOriginal
+  price: 8
+  toppings: []
+  menuPrefab: {fileID: 1382215392297715757, guid: 2c63c36803e74974e9df28285e2adb42, type: 3}
